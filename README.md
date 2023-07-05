@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My Name is Allen and I work and live in Costa Rica 
+I enjoy photgraphy and I have been working my skills to bring my photos to a public space. One of my goals is to keep a website with my photography.
+
+Besides that I am learning DevOps with Azure and PowerShell.
+
+Pura Vida! 
