@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My Name is Allen and I work and live in Costa Rica 
-I enjoy photgraphy and I have been working my skills to bring my photos to a public space. One of my goals is to keep a website with my photography.
+I'm Allen and Costa Rica is where I work and live. Photography is my passion and I have been improving my skills to share my photos with others. I have a goal of maintaining a website with my photography.
 
-Besides that I am learning DevOps with Azure and PowerShell.
+In addition to that, I am studying DevOps with Azure and Terraform.  Here are some simple deployment Terraforms that assist me in solving issues in my daily tasks.
+📫 allen.alv@outlook.com
+📸 @sunset.tico
+✖️ @capturepixs
 
 Pura Vida! 
